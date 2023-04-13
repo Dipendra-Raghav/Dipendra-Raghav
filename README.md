@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raghavdip19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/drive/search?q=resume)
+- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/1YcL0hHdGVJye7tR2fmhSLUZkWmfwVb-t/view?usp=share_link)
 
 - ⚡ Fun fact **I love designing, but i am color blind.**
 
