@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_dipendra_r" target="blank"><img src="https://img.shields.io/twitter/follow/_dipendra_r?logo=twitter&style=for-the-badge" alt="_dipendra_r" /></a> </p>
 
-- 💬 Ask me about **flutter,firebase,c++**
+- 💬 Ask me about **MERN,flutter,firebase,c++**
 
 - 📫 How to reach me **raghavdip19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/1YcL0hHdGVJye7tR2fmhSLUZkWmfwVb-t/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/1n-fUqK62cIO1cYKTQCgNdXXiqbCYzMrh/view)
 
 - ⚡ Fun fact **I love designing, but i am color blind.**
 
